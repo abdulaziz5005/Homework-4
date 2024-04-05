@@ -85,6 +85,11 @@ int main() {
         }
         number_2 -- ;
     }
+
+
+
+
+
     cout << "PROBLEM 3\n";
     int N_3 ;
     cout << " Enter the number for 'N_3': ";
