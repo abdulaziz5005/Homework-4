@@ -68,7 +68,7 @@ int main() {
 
 
 
-    cout << "PROBLEM 2\n";
+    cout << "PROBLEm 2\n";
     int number_2;
     cout << " Enter your number: " ;
     cin >> number_2;
